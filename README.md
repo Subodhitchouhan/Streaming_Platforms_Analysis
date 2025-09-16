@@ -30,7 +30,8 @@ The PDF report contains visuals of the dashboards, and below is a short summary 
 - **Observation**: Netflix has the **largest content library**, strong in movies, with a wide variety of genres and global reach.  
 
 📷 *Dashboard Snapshot*  
-![Netflix Dashboard](images/netflix_dashboard.png)
+![Streaming_Platform_Analysis_pages-to-jpg-0001](https://github.com/user-attachments/assets/8814c739-3db2-4f16-a2f8-92e8009245a9)
+
 
 ---
 
@@ -42,7 +43,8 @@ The PDF report contains visuals of the dashboards, and below is a short summary 
 - **Observation**: Amazon Prime has a **broad collection of movies**, with strong regional and international representation.  
 
 📷 *Dashboard Snapshot*  
-![Amazon Prime Dashboard](images/prime_dashboard.png)
+![Streaming_Platform_Analysis_pages-to-jpg-0002](https://github.com/user-attachments/assets/ea179f12-635f-41eb-8b40-e5078478c15e)
+
 
 ---
 
@@ -54,7 +56,8 @@ The PDF report contains visuals of the dashboards, and below is a short summary 
 - **Observation**: Hotstar specializes in **family and kids’ content**, balancing movies and series, with consistent yearly growth.  
 
 📷 *Dashboard Snapshot*  
-![Hotstar Dashboard](images/hotstar_dashboard.png)
+![Streaming_Platform_Analysis_pages-to-jpg-0003](https://github.com/user-attachments/assets/b6bf3e95-cf55-402a-b1ed-12187f7563e4)
+
 
 ---
 
