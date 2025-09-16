@@ -61,13 +61,6 @@ The PDF report contains visuals of the dashboards, and below is a short summary 
 
 ---
 
-## 📂 Project Files
-- `Streaming_Platform_Analysis.pbix` → Power BI file (Dashboard)
-- `Streaming_Platform_Analysis.pdf` → PDF with dashboard images
-- `README.md` → Project Documentation
-
----
-
 ## 🔮 Conclusion
 - **Netflix** leads in sheer volume and variety of content.  
 - **Amazon Prime** has a diverse movie-focused collection with global appeal.  
@@ -75,13 +68,4 @@ The PDF report contains visuals of the dashboards, and below is a short summary 
 
 Each platform shows unique strengths catering to different audiences.  
 
----
 
-## 📸 Dashboard Images
-(Replace these with your actual image paths)
-
-- Netflix Dashboard → `images/netflix_dashboard.png`  
-- Amazon Prime Dashboard → `images/prime_dashboard.png`  
-- Hotstar Dashboard → `images/hotstar_dashboard.png`  
-
----
